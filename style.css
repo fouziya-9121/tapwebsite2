@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#hero h1,#hero_content,#hero_content1,#hero_content2{
+    text-align: center;
+    padding-right: 70%;
+    
+}
+#hero h1{
+    padding-top: 10%;
+}
+#hero_content{
+    padding-top: 2%;
+}
+
+#hero_content1{
+    padding-top: 2%;
+}
+#hero_content2{
+    border-radius: 10%;
+    padding-top: 2%;
+    scroll-padding: 10%;
+}
+
+
+#hero1{
+    background: rgb(41, 41, 145);
+   
+}
+#hero{
+    color: #fff;
+    font-size: x-large;
+    text-align: center;
+   
+}
+
+#hero_content,.btn2,.btn3{
+    text-align: center;
+    font-size: medium;
+    border-radius: 20px;
+    margin-left: 40px;
+    padding: 15px;
+    display: flex;
+    
+}
+
+
+#hero_content1{
+    color: #fff;
+    margin-left: 40px;
+
+    
+}
+
+#hero_content2,.btn,.btn1{
+    
+    border-radius: 5px;
+            margin-right: 10px;
+            padding: 10px;
+            display: flex;
+            
+}
+
+#header{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 70px;
+    line-height: 70px;
+    background-color: #fff;
+    padding-left: 10%;
+}
+
+
+#navbar ul{
+    display: flex;
+}
+
+#navbar ul li{
+    list-style: none;
+    padding: 3px 15px 3px 15px;
+}
+
+#navbar ul li :hover {
+    background: rgb(192, 192, 214);
+    cursor: pointer;
+    text-decoration: none;
+}
+#para {
+    padding-top: 5%;
+    text-align: center;
+    color: #fff;
+    font-size:large;
+}
+
+
+#part-2{
+    text-align: center;
+    background-color: skyblue;
+    color: #1c1a1a;
+    font-size: x-large;
+}
+
+#card1,#card3{
+            background-color:white;
+            width: 400px;
+            margin-left: 40px ;
+            margin-bottom: 20px;
+            padding: 50px;
+            padding-top: 20px;
+            border-radius: 15px;
+            display: inline-block;
+            
+}
+#card1,h2,p{
+    text-align: center;
+}
+
+#part3{
+    text-align: center;
+    background-color: white;
+    color: #1c1a1a;
+    font-size: x-large;
+}
+
+#img1,#img2{
+            background-color:rgb(247, 242, 242);
+            width: 400px;
+            margin-left: 40px ;
+            margin-bottom: 20px;
+            padding: 50px;
+            padding-top: 20px;
+            border-radius: 15px;
+            display: inline-block;
+            
+}
+
+#img1,#img2,h1,p{
+    text-align: center;
+}
+
+#part4{
+    text-align: center;
+    display: inline-block;
+    padding: 10%;
+    background-color: rgb(75, 94, 87);
+    color: red;
+}
+#part4,h1{
+    font-size: xx-large;
+}
+
+#part4,h4{
+    font-size: medium;
+}
+
+#part5 {
+    background-color: rgb(213, 213, 226);
+    text-align: center;
+}
